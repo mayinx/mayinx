@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Chris 👋
 
 <!--
 **mayinx/mayinx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mayinx&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<!-- TODO: Play with themes here: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayinx&count_private=true&include_all_commits=true&hide=contribs&show_icons=true&theme=cobalt" />  
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayinx&langs_count=10&&layout=compact&count_private=true&include_all_commits=true&theme=cobalt" />
+</a>
